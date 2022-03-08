@@ -27,7 +27,7 @@ With appointments<br>
 
 ### **Test it!** :rocket:
 
-https://reverent-chandrasekhar-b2789c.netlify.app/
+https://appforvet.netlify.app/
 
 # **App para agendar citas** 
 
@@ -59,4 +59,4 @@ Con citas cargadas <br>
 ### **Probalo!** :rocket:
 
 
-https://reverent-chandrasekhar-b2789c.netlify.app/
+https://appforvet.netlify.app/
